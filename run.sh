@@ -1,0 +1,1 @@
+docker run -d --name babel-duck --env-file .env -p 9000:9000 babel-duck:latest
